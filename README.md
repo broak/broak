@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my PhD thesis - almost done!!
 - 🌱 I’m currently learning Swift on the side, and constantly improving my Python skills.
 - 🤔 I’m looking for an interesting job in data science or analytics, based in Mebourne.
-- 💬 Ask me about vision neuroscience, VR/AR, games!
+- 💬 Ask me about vision neuroscience, VR/AR, videogames!
 - 📫 How to reach me: Visit my website - brianoakley.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have more repositories on here that I'd love to show you, but they are full of private lab code 😢
