@@ -1,5 +1,5 @@
 ## neural data scientist - AR/VR evangelist - professional nerd
-### [brianoakley.com](brianoakley.com) | [twitter: @brianoakley](twitter.com/brianoakley) | [linkedin: @broak](linkedin.com/in/broak)
+### [brianoakley.com](https://www.brianoakley.com) | [twitter: @brianoakley](https://www.twitter.com/brianoakley) | [linkedin: @broak](https://www.linkedin.com/in/broak)
 
 #### ✨ Thanks for visiting my GitHub profile ✨
 
