@@ -1,5 +1,7 @@
-### ✨ Thanks for visiting my GitHub profile ✨
-## Brian Oakley
+## neural data scientist - AR/VR evangelist - professional nerd
+### [brianoakley.com](brianoakley.com) | [twitter: @brianoakley](twitter.com/brianoakley) | [linkedin: @broak](linkedin.com/in/broak)
+
+#### ✨ Thanks for visiting my GitHub profile ✨
 
 - 🔭 I’m currently working on my PhD thesis - almost done!!
 - 🌱 I’m currently learning Swift on the side, and constantly improving my Python skills.
@@ -7,6 +9,7 @@
 - 💬 Ask me about vision neuroscience, VR/AR, games!
 - 📫 How to reach me: Visit my website - brianoakley.com
 - 😄 Pronouns: he/him
+- ⚡ Fun fact: I have more repositories on here that I'd love to show you, but they are full of private lab code 😢
 
 <!--
 **broak/broak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
