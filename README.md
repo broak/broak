@@ -1,13 +1,13 @@
-## neural data scientist - AR/VR evangelist - professional nerd
-### [brianoakley.com](https://www.brianoakley.com) | [twitter: @brianoakley](https://www.twitter.com/brianoakley) | [linkedin: @broak](https://www.linkedin.com/in/broak)
+## computational neuroscientist - spatial computing advocate - professional nerd
+### [broak.xyz](https://www.broak.xyz) | [twitter: @brianoakley](https://www.twitter.com/brianoakley) | [linkedin: @broak](https://www.linkedin.com/in/broak)
 
 #### ✨ Thanks for visiting my GitHub profile ✨
 
-- 🔭 I’m currently working on my PhD thesis - almost done!!
+- 💼 I've been working as a Product Analyst in a Melbourne-based SaaS company for the last 12 months.
+- 🔭 I sumbitted my PhD thesis in 2020 after 4 long years of work, and it was officially conferred in 2021 - so I'm *technically* a doctor 😅
 - 🌱 I’m currently learning Swift on the side, and constantly improving my Python skills.
-- 🤔 I’m looking for an interesting job in data science or analytics, based in Mebourne.
 - 💬 Ask me about vision neuroscience, VR/AR, videogames!
-- 📫 How to reach me: Visit my website - brianoakley.com
+- 📫 How to reach me: Visit my website - broak.xyz
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have more repositories on here that I'd love to show you, but they are full of private lab code 😢
 
