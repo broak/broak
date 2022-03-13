@@ -9,7 +9,6 @@
 - 💬 Ask me about vision neuroscience, VR/AR, videogames!
 - 📫 How to reach me: Visit my website - broak.xyz
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have more repositories on here that I'd love to show you, but they are full of private lab code 😢
 
 <!--
 **broak/broak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
